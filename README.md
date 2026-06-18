@@ -8,7 +8,9 @@ Framework ini menawarkan keseimbangan dan kemudahan penggunaan dan performa yang
 
 ### Step 1 | Menambahkan library Vuejs dan Axios
 Selanjutnya, Persiapkan library Vuejs dan Axiountuk call API REST. Menggunakan CDN untuk memuat library Vue.
+
 ```<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>```.
+
 ```<script src="https://unpkg.com/axios/dist/axios.min.js"></script>```
 
 Struktur direktori:
